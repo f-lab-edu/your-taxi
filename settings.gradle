@@ -1,0 +1,3 @@
+rootProject.name = 'yourtaxi'
+include 'domain'
+include 'application'
